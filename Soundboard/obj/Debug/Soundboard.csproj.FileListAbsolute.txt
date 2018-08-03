@@ -1,0 +1,12 @@
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\bin\Debug\Soundboard.exe.config
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\bin\Debug\Soundboard.exe
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\bin\Debug\Soundboard.pdb
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\bin\Debug\NAudio.dll
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\bin\Debug\NAudio.xml
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\obj\Debug\Soundboard.csprojResolveAssemblyReference.cache
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\obj\Debug\Soundboard.Form1.resources
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\obj\Debug\Soundboard.Properties.Resources.resources
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\obj\Debug\Soundboard.csproj.GenerateResource.Cache
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\obj\Debug\Soundboard.exe
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\obj\Debug\Soundboard.pdb
+C:\Users\prodg\Documents\Soundboard\Soundboard\Soundboard\obj\Debug\Soundboard.NewKeyBindForm.resources
